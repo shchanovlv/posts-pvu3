@@ -1,35 +1,12 @@
 # posts-pvu3
 
-This template should help get you started developing with Vue 3 in Vite.
+To demonstrate Pinia’s features, we’ll build a basic blog engine with the following features:
 
-## Recommended IDE Setup
+<ol>
+  <li>A list of all posts</li>
+  <li>A single post page with the post’s comments</li>
+  <li>A list of all post authors</li>
+  <li>A single author page with the author’s written posts</li>
+</ol>
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+![Alt text](defining-app-stores-pinia.avif 'Title')

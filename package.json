@@ -1,8 +1,9 @@
 {
   "name": "posts-pvu3",
   "version": "0.0.0",
-  "private": true,
+  "private": false,
   "type": "module",
+  "url": "https://blog.logrocket.com/complex-vue-3-state-management-pinia/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
